@@ -1,0 +1,13 @@
+2026-09-17 20:58:11 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - User successfully logged in
+2026-09-17 20:58:11 INFO  [com.example.api.App.main()] com.example.business.accounts - Pin is valid for account: 3
+2026-09-17 20:58:11 INFO  [com.example.api.App.main()] com.example.business.accounts - Depoist was successful amount 200
+2026-09-17 20:58:11 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - User successfully logged in
+2026-09-17 21:08:56 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - Invalid pin or accountID
+2026-09-17 21:08:56 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - Invalid pin or accountID
+2026-09-17 21:09:11 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - User successfully logged in
+2026-09-17 21:09:11 INFO  [com.example.api.App.main()] com.example.business.accounts - Pin is valid for account: 1
+2026-09-17 21:09:11 INFO  [com.example.api.App.main()] com.example.business.accounts - Depoist was successful amount 500
+2026-09-17 21:09:11 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - User successfully logged in
+2026-09-17 21:32:46 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - Account 1 authenticated successfully
+2026-09-17 21:32:46 INFO  [com.example.api.App.main()] com.example.business.accounts - Depoist successful for account 1. Amount 100
+2026-09-17 21:32:46 INFO  [com.example.api.App.main()] com.example.repo.Accounthandler - Account 1 authenticated successfully

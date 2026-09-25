@@ -1,0 +1,12 @@
+2026-09-25 00:26:32 INFO  [main] com.example.business.accounts - Account 1 authenticated successfully
+2026-09-25 00:26:33 INFO  [main] com.example.business.accounts - Depoist successful for account 1. Amount 100.00
+2026-09-25 00:45:03 INFO  [main] com.example.business.accounts - Account 1 authenticated successfully
+2026-09-25 00:45:03 INFO  [main] com.example.business.accounts - Depoist successful for account 1. Amount 100.00
+2026-09-25 12:44:02 ERROR [com.example.api.App.main()] com.example.repo.DatabaseConnection - Database could not connect
+2026-09-25 12:44:02 WARN  [com.example.api.App.main()] com.example.repo.Accounthandler - Vaildate pin was not successful database encountered an error
+2026-09-25 12:50:32 ERROR [com.example.api.App.main()] com.example.repo.DatabaseConnection - Database could not connect
+2026-09-25 12:50:32 WARN  [com.example.api.App.main()] com.example.repo.Accounthandler - Vaildate pin was not successful database encountered an error
+2026-09-25 12:57:13 ERROR [com.example.api.App.main()] com.example.repo.DatabaseConnection - Database could not connect
+2026-09-25 12:57:13 WARN  [com.example.api.App.main()] com.example.repo.Accounthandler - Vaildate pin was not successful database encountered an error
+2026-09-25 13:02:25 ERROR [com.example.api.App.main()] com.example.repo.DatabaseConnection - Database could not connect
+2026-09-25 13:02:25 WARN  [com.example.api.App.main()] com.example.repo.Accounthandler - Vaildate pin was not successful database encountered an error
